@@ -25,7 +25,7 @@
                 echo" The file  ".basename($_FILES['upload']['name'])."  has been uploaded";
             }
             else{
-                echo"honey ullu";
+               echo"Error ullu";
             }
 
         }
